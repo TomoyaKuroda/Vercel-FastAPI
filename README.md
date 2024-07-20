@@ -1,4 +1,6 @@
 # FastAPI Project
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FTomoyaKuroda%2FVercel-FastAPI)
+
 
 This is a FastAPI project designed to be lightweight using FastAPI-Slim and ready for deployment on Vercel. It includes instructions for running the project locally using FastAPI-CLI.
 
