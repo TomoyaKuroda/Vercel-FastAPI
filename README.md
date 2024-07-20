@@ -33,8 +33,7 @@ This is a FastAPI project designed to be lightweight using FastAPI-Slim and read
 
 ## Running Locally
 1. **Start the FastAPI server:**
-```fastapi dev api/main.py --reload```
---reload enables auto-reload for code changes.
+```fastapi dev api/main.py```
 
 2. **Open your browser and navigate to:**
 ```http://127.0.0.1:8000```
